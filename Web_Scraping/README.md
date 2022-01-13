@@ -26,18 +26,18 @@ Para isso, vamos criar uma automação web:
 
 <h3>➡ Passos que foram utilizados para resolver o desafio: </h3>
 
-1. Pegar a cotação do dólar
+1. Pegar a cotação do dólar;
 
 
-2. Pegar a cotação do Euro
+2. Pegar a cotação do Euro;
 
 
-3. Pegar a cotação do Ouro
+3. Pegar a cotação do Ouro;
 
 
-4. Importar a base de dados e atualizar as cotações na base
+4. Importar a base de dados e atualizar as cotações na base;
 
 
-5. Calcular os novos preços e salvar/exportar a base de dados
+5. Calcular os novos preços e salvar/exportar a base de dados.
 
 # 
