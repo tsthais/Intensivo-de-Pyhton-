@@ -1,7 +1,7 @@
 #
 
 <div>
-  <h1 align="center"> Automação de Sistemas e Processos com Python ☎🔍📊</h1>
+  <h1 align="center"> Análise de dados com Python ☎🔍📊</h1>
 </div>
 
 #
